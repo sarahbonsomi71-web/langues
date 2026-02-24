@@ -1,4 +1,3 @@
-
 Try :
         Cursor.execute(« INSERT INTO dictionnaire VALUES ( ?, ?) », (fr, en))
         Conn.commit()
